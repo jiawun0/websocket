@@ -1,0 +1,8 @@
+.vs/                       
+packages/                  
+websocket/bin/       
+websocket/Content/  
+websocket/obj/
+websocket/Scripts/  
+*.user 
+*.config                                   
